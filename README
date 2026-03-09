@@ -1,0 +1,43 @@
+# Canvas 2D con Programación Orientada a Objetos
+
+Este proyecto es un ejemplo de uso de **Canvas 2D en JavaScript** aplicando **Programación Orientada a Objetos (OOP)** para crear y dibujar múltiples círculos dentro de un canvas.
+
+La aplicación muestra tres ejemplos diferentes de objetos dibujados en canvas.
+
+---
+
+## Descripción
+
+El programa utiliza **HTML, Bootstrap y JavaScript** para crear una interfaz web donde se representan objetos gráficos mediante la clase `Circle`.
+
+Se muestran tres tipos de objetos:
+
+1. **Objeto 2D**
+   - Un círculo creado manualmente.
+   - Posición centrada en el canvas.
+
+2. **Objeto con Random**
+   - Un círculo con posición y tamaño aleatorio.
+
+3. **Múltiples objetos**
+   - Se generan varios círculos automáticamente.
+   - Cada círculo tiene:
+     - Tamaño aleatorio
+     - Posición aleatoria
+     - Colores diferentes
+     - Número identificador
+   - Los círculos se mantienen dentro del canvas.
+
+---
+
+## Tecnologías utilizadas
+
+- HTML5
+- CSS
+- JavaScript
+- Canvas API
+- Bootstrap 5
+
+---
+
+## Estructura del proyecto
